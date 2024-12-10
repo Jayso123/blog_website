@@ -18,22 +18,30 @@
             <thead>
                 <tr>
                     <th>Title</th>
-                    <!-- <th>Actions</th> -->
+                    <th>Actions</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>Sample Blog Post</td>
-                    <!-- <td>
+                    <td>
                         <a href="edit_post.php?id=1">Edit</a> |
                         <a href="delete_post.php?id=1">Delete</a>
-                    </td> -->
+                    </td>
                 </tr>
             </tbody>
         </table>
     </main>
-    <footer>
-        <p>&copy; 2024 Admin Dashboard. All rights reserved.</p>
+    <!-- <footer style="
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;"> -->
+    <footer style=" position: fixed;
+  bottom: 0px;
+  margin-right: 30%;
+  margin-left: 40%;">
+        <p class="foot">&copy; 2024 Admin Dashboard. All rights reserved.</p>
     </footer>
 </body>
 
