@@ -21,7 +21,7 @@
         <article class="post-content">
             <h1>Post Title Here</h1>
             <p><strong>By Author Name</strong> | <em>Published on 2024-11-22</em></p>
-            <img src="https://miro.medium.com/v2/resize:fit:1024/1*yBt65HhmARbqZDDJ1McFDg.png" alt="Post Image" style="max-width: 100%;">
+            <img src="https://miro.medium.com/v2/resize:fit:1024/1*yBt65HhmARbqZDDJ1McFDg.png" alt="Blog-Post Image" style="max-width: 100%;">
             <p>This is the full content of the blog post...</p>
         </article>
     </main>
